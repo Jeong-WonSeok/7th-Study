@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_BJ_안전영역 {
+public class Main_BJ_2468_안전영역_정원석 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		

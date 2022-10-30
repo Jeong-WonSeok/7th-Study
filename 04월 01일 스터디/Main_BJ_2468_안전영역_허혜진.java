@@ -1,11 +1,10 @@
-package study0401;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_2468_안전영역 {
+public class Main_BJ_2468_안전영역_허혜진 {
 
 	static int N, maxRain, max;
 	static int[][] map;

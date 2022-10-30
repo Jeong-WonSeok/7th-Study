@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main_BJ_1991_트리순회 {
+public class Main_BJ_1991_트리순회_노정현 {
 
 	static class Node {
 
